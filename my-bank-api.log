@@ -1,0 +1,47 @@
+2020-06-04T22:54:16.378Z [my-bank-api] info: API STARTED!
+2020-06-04T22:56:06.737Z [my-bank-api] info: API STARTED!
+2020-06-04T22:56:22.421Z [my-bank-api] info: API STARTED!
+2020-06-04T22:57:45.789Z [my-bank-api] info: POST /account - {"id":1,"name":"Jéssica Gonçalves","balance":300.25}
+2020-06-04T23:06:04.088Z [my-bank-api] info: POST /account - {"id":2,"name":"Luisa Gonçalves","balance":105.25}
+2020-06-04T23:08:56.579Z [my-bank-api] info: API STARTED!
+2020-06-04T23:09:00.732Z [my-bank-api] info: GET /accounts
+2020-06-04T23:11:48.252Z [my-bank-api] info: API STARTED!
+2020-06-04T23:12:49.747Z [my-bank-api] info: API STARTED!
+2020-06-04T23:12:51.812Z [my-bank-api] info: GET /account/:id - {"id":2,"name":"Luisa Gonçalves","balance":105.25}
+2020-06-04T23:13:06.540Z [my-bank-api] info: DELETE /accounts - 2
+2020-06-04T23:13:26.089Z [my-bank-api] info: API STARTED!
+2020-06-04T23:13:39.215Z [my-bank-api] info: POST /account - {"id":3,"name":"Anabel Gonçalves","balance":105.25}
+2020-06-04T23:13:43.414Z [my-bank-api] info: POST /account - {"id":4,"name":"Verbena Gonçalves","balance":105.25}
+2020-06-04T23:13:49.340Z [my-bank-api] info: POST /account - {"id":5,"name":"Luis Gonçalves","balance":10}
+2020-06-04T23:13:55.368Z [my-bank-api] info: GET /accounts
+2020-06-04T23:14:10.130Z [my-bank-api] info: DELETE /accounts - id: 3
+2020-06-04T23:14:31.566Z [my-bank-api] info: API STARTED!
+2020-06-04T23:15:22.132Z [my-bank-api] info: API STARTED!
+2020-06-04T23:15:48.279Z [my-bank-api] info: POST /account - {"id":6,"name":"Araci TopTerm","balance":50}
+2020-06-04T23:15:54.949Z [my-bank-api] info: GET /accounts
+2020-06-04T23:16:02.401Z [my-bank-api] info: DELETE /accounts - account id: 6
+2020-06-04T23:16:45.412Z [my-bank-api] info: API STARTED!
+2020-06-04T23:16:49.031Z [my-bank-api] info: API STARTED!
+2020-06-04T23:17:00.494Z [my-bank-api] info: GET /accounts
+2020-06-04T23:17:23.214Z [my-bank-api] info: PUT /accounts - {"id":4,"name":"VerbenaS Gonçalves","balance":105.25}
+2020-06-04T23:17:27.062Z [my-bank-api] info: GET /accounts
+2020-06-04T23:17:37.014Z [my-bank-api] error: POST /accounts/transaction - "Cannot read property 'balance' of undefined"
+2020-06-04T23:17:40.652Z [my-bank-api] info: POST /accounts/transaction - undefined
+2020-06-04T23:17:45.932Z [my-bank-api] info: GET /accounts
+2020-06-04T23:17:56.335Z [my-bank-api] info: PUT /accounts - {"id":4,"name":"Verbena Gonçalves","balance":105.25}
+2020-06-04T23:17:58.802Z [my-bank-api] info: GET /accounts
+2020-06-05T00:29:51.394Z [my-bank-api] info: API STARTED!
+2020-06-05T00:31:13.753Z [my-bank-api] info: POST /account - {"id":7,"name":"Jeresvalda Evangelista","balance":2}
+2020-06-05T00:31:18.190Z [my-bank-api] info: GET /accounts
+2020-06-05T11:29:09.625Z [my-bank-api] info: API STARTED!
+2020-06-05T11:29:12.584Z [my-bank-api] info: GET /account/:id
+2020-06-05T11:29:16.726Z [my-bank-api] info: GET /account/:id - {"id":4,"name":"Verbena Gonçalves","balance":105.25}
+2020-06-05T11:38:52.879Z [my-bank-api] info: DELETE /accounts - account ID: 7
+2020-06-05T12:28:23.079Z [my-bank-api] info: API STARTED!
+2020-06-05T12:28:56.223Z [my-bank-api] info: API STARTED!
+2020-06-05T12:31:16.329Z [my-bank-api] info: API STARTED!
+2020-06-05T12:31:49.881Z [my-bank-api] info: GET /accounts
+2020-06-05T12:38:30.649Z [my-bank-api] info: API STARTED!
+2020-06-05T12:39:19.617Z [my-bank-api] info: GET /accounts
+2020-06-05T13:46:13.981Z [my-bank-api] info: API STARTED!
+2020-06-05T13:46:23.849Z [my-bank-api] info: GET /accounts
